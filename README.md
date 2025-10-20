@@ -1,22 +1,28 @@
-QuickRead AI - Smart PDF Analyzer
+# QuickRead AI - Smart PDF Analyzer
+
 A streamlined web application that processes uploaded PDFs to deliver instant textual analysis, including AI-powered summarization and sentiment detection.
 
-Overview
-QuickRead AI is an intelligent PDF analysis tool built with Python and Streamlit. It extracts text from PDF documents and provides:
+## Overview
 
-Smart Summarization - AI-powered document summaries
-Sentiment Analysis - Emotional tone detection
-Key Points Extraction - Main ideas at a glance
-Text Statistics - Word count, readability metrics
-PDF Export - Download summaries as professional reports
-Tech Stack
-Python - Core programming language
-Streamlit - Web framework for rapid development
-NLTK & TextBlob - Natural Language Processing
-PyPDF2 & pdfplumber - PDF text extraction
-FPDF - PDF report generation
-Installation
-Clone and setup
+QuickRead AI is an intelligent PDF analysis tool built with Python and Streamlit. It extracts text from PDF documents and provides:
+- **Smart Summarization** - AI-powered document summaries
+- **Sentiment Analysis** - Emotional tone detection  
+- **Key Points Extraction** - Main ideas at a glance
+- **Text Statistics** - Word count, readability metrics
+- **PDF Export** - Download summaries as professional reports
+
+## Tech Stack
+
+- **Python** - Core programming language
+- **Streamlit** - Web framework for rapid development
+- **NLTK & TextBlob** - Natural Language Processing
+- **PyPDF2 & pdfplumber** - PDF text extraction
+- **FPDF** - PDF report generation
+
+## Installation
+
+1. **Clone and setup**
+```bash
 git clone <repository-url>
 cd QuickRead
 python -m venv venv
