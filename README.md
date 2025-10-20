@@ -12,7 +12,7 @@ QuickRead AI is an intelligent PDF analysis tool built with Python and Streamlit
 - **PDF Export** - Download summaries as professional reports
 - ## 🌐 Live Demo
 
-Try it now: [https://quickread.streamlit.app/](https://quickreaed.streamlit.app/)
+Try it now: [https://quickreaed.streamlit.app/](https://quickreaed.streamlit.app/)
 
 ## Tech Stack
 
